@@ -1,0 +1,12 @@
+.k-calendar
+  .k-calendar-view.k-calendar-monthview
+  .k-content
+  .k-calendar-td.k-range-mid
+  .k-link {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  color: purple;
+  background-color: green;
+}
